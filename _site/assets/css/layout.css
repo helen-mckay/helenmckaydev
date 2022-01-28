@@ -6,55 +6,17 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--magenta);
 }
 
-h1 {
-    font-size: 3rem;
-}
-
-h2 {
-    font-size: 2.5rem;
-}
-
-h3 {
-    font-size: 2rem;
-}
+/* TO-DO: figure out active nav styling -> FIXED IT!! */
 
 a {
     color: var(--blue);
-    font-size: inherit;
 }
 
-ul {
-    list-style: square;
-}
-
-li {
-    font-size: 1rem;
-}
-
-nav {
-    display: flex;
-    justify-content: flex-end;
-}
-
-nav ul {
-    display: flex;
-    list-style-type: none;
-}
-
-nav ul li {
-    margin: 1rem;
-}
-
-/* TO-DO: figure out active nav styling */
-
-.nav {
+/* TO-DO figure out targeting nav links for styling */
+.nav a {
     color: var(--orange);
-    text-transform: uppercase;
-    font-weight: bold;
-    text-decoration: none;
-    font-size: 1.75rem;
 }
 
-.activenav {
-    color: purple;
+.activenav a {
+    color: pink;
 }
