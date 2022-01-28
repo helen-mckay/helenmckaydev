@@ -45,6 +45,8 @@ nav ul li {
     margin: 1rem;
 }
 
+/* TO-DO: figure out active nav styling */
+
 .nav {
     color: var(--orange);
     text-transform: uppercase;
