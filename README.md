@@ -1,7 +1,3 @@
----
-layout: layout.njk
----
-
 # This is my web development portfolio site
 
 ## Built with:
