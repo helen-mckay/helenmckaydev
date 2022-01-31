@@ -6,6 +6,8 @@ eleventyNavigation:
     order: 3
 ---
 
+# About Me
+
 <!-- Helen's history with web develpment -->
 
 I have been making websites for over 5 years. When I was 13 years old, I taught myself HTML and CSS so I could tweak Tumblr themes, and I have been hooked on web development ever since. 
