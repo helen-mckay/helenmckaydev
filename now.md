@@ -3,6 +3,7 @@ layout: layout.njk
 title: Now
 eleventyNavigation:
     key: Now
+    order: 3
 ---
 
 # What I'm up to right now*

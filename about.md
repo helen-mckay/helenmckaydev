@@ -3,6 +3,7 @@ layout: layout.njk
 title: About
 eleventyNavigation:
     key: About
+    order: 2
 ---
 
 <!-- Helen's history with web develpment -->

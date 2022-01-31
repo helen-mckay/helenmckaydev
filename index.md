@@ -3,6 +3,7 @@ layout: layout.njk
 title: Home
 eleventyNavigation:
     key: Home
+    order: 1
 # might change this one to either njk or html page for more control over the formatting
 ---
 
