@@ -27,8 +27,8 @@ I've been making websites for over 5 years, from small sites in pure HTML and CS
 - React.JS
 - Node.JS
 - Finite State Machines
-- XState
-- Robot3
+    - XState
+    - Robot
 - 11ty
 - Firebase
 - Heroku
