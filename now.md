@@ -8,7 +8,15 @@ eleventyNavigation:
 
 # What I'm up to right now*
 
-<!-- January 2022 -->
 <!-- web dev, life, school, employment -->
+
+- Designing, building, testing, and launching the new version of this site (11ty and Netlify CMS this time)
+- Stuyding hard to do as well as possible in my Computer Science classes
+- Preparing for applying for summer 2022 internship
+- Trying to get back in the habit of bike riding regularly
+- Incorporating kanban boards and Cal Newport-style time blocking for time management
+- Making more examples of finite state machines implementations on CodePen
+- Testing if my hypotheses of using finite state machines in the JAMstack hold any water
+- Watching all of 30 Rock
 
 #### *inspired by the [/now page movement](https://nownownow.com) (will be submitting this page there shortly)
