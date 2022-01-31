@@ -49,7 +49,7 @@ This very site was made with 11ty and Netlify CMS and hosted with Netlify.
 
 <!-- links to other pages on this site -->
 
-## Learn more about me
+## Learn more
 
 [View some of my projects](/projects), [learn more about me](/about), and [discover what I'm up to now](/now).
 
