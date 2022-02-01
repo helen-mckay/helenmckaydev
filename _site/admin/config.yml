@@ -12,4 +12,4 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Blurb", name: "blurb", widget: "string"}
-      - {label: "Tech List", name: "tectlist", widget: "select", options: ["netlify", "netlify cms", "react", "11ty"]}
+      - {label: "Tech List", name: "tectlist", widget: "select", multiple: true, options: ["netlify", "netlify cms", "react", "11ty"]}
