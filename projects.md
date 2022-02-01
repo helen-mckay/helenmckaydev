@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: project.njk
 title: Home
 eleventyNavigation:
     key: Projects
