@@ -11,3 +11,5 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Blurb", name: "blurb", widget: "string"}
+      - {label: "Tech List", name: "tectlist", widget: "select", options: ["netlify", "netlify cms", "react", "11ty"]}
