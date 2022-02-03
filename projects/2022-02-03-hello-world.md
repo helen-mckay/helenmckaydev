@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: project.njk
 cover: /images/uploads/all-pics-020.jpg
 title: hello world
 date: 2022-02-03T20:04:51.720Z
