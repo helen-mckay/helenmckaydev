@@ -11,13 +11,13 @@ eleventyNavigation:
 
 # I'm Helen McKay, a front-end developer studying Computer Science at the University of Houston
 
-I've been making websites for over 5 years, from small sites in pure HTML and CSS to React applications to the JAMstack (my current interest).
+I've been making websites for over 5 years, from small sites in pure HTML and CSS to React applications to the Jamstack (my current interest).
 
-Graduating with a BS in Computer Science and a minor in Mathematics in December 2023.
+Graduating December 2023 with a Bachelor's in Computer Science and a minor in Mathematics.
 
 <!-- list of Helen's skills -->
 
-## I know
+## I have worked with
 
 - HTML5
 - CSS3
@@ -35,12 +35,13 @@ Graduating with a BS in Computer Science and a minor in Mathematics in December 
 - 11ty
 - Firebase
 - Heroku
+- Amazon Web Services
 - Netlify
 - Netlify CMS
 
 <!-- blurb on how this site was made -->
 
-This very site was made with 11ty and Netlify CMS and hosted with Netlify.
+This very site was made with 11ty and Netlify CMS, and hosted with Netlify. Future plans for this site include a blog where I will discuss what I'm learning.
 
 ## I also know
 

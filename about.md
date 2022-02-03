@@ -10,9 +10,9 @@ eleventyNavigation:
 
 <!-- Helen's history with web develpment -->
 
-I have been making websites for over 5 years. When I was 13 years old, I taught myself HTML and CSS so I could tweak Tumblr themes, and I have been hooked on web development ever since. 
+I've been making websites for over 5 years. When I was 13 years old, I taught myself HTML and CSS so I could tweak Tumblr themes, and I have been hooked on web development ever since. 
 
-I started making simple sites with pure HTML and CSS, then moved to larger applications in React. Most recently, I've been learning the JAMstack and exploring how to use finite state machines for UX state management. I am currently using 11ty, Netlify, Netlify CMS, and Robot.
+I started making simple sites with pure HTML and CSS, then moved to larger applications in React. Most recently, I've been learning the Janstack and exploring how to use finite state machines for UX state management. I am currently using 11ty, Netlify, Netlify CMS, and Robot.
 
 <!-- Helen's non-web-dev interets -->
 
@@ -24,7 +24,7 @@ Currently reading:
 
 <!-- What Helen is interested in working in -->
 
-After graduation, I would like to work as a front-developer or software engineer, working on large applications that deliver clean, intuitive, and accessible experiences to their users.
+After graduation, I would like to work as a front-developer or software engineer, working on large applications that deliver fast, clean, intuitive, and accessible experiences to their users.
 
 <!-- Links to other pages on this site -->
 
