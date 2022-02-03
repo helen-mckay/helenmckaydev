@@ -21,10 +21,11 @@ Graduating with a BS in Computer Science and a minor in Mathematics in December 
 
 - HTML5
 - CSS3
-- CSS Libraries and Frameworks
-    - SASS
-    - Bootstrap
-    - Tailwind
+    - Grid
+    - Flexbox
+- SASS
+- Tailwind
+- Bootstrap
 - Vanilla.JS
 - React.JS
 - Node.JS
