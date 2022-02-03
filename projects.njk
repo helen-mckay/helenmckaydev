@@ -8,6 +8,10 @@ eleventyNavigation:
 
 <h1>My Projects</h1>
 
+<ul>
 {%- for project in collections.projects -%}
-    <a href="{{project.url | url}}">{{project.data.title}}</a>
+    <li>
+        <a href="{{project.url | url}}">{{project.data.title}}</a>
+    </li>
 {%- endfor -%}
+</u>
