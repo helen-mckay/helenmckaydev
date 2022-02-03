@@ -28,9 +28,13 @@
 </li>
 {%- endmacro %}
 
-<ul>
-{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
-</ul>
+<nav>
+    <ul>
+        {%- for entry in navPages %}
+            {{ renderNavListItem(entry) }}
+        {%- endfor -%}
+    </ul>
+</nav>
     {{ content | safe }}  
   </body>
 </html>
