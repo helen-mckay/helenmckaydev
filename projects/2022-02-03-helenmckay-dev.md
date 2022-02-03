@@ -35,7 +35,4 @@ description: >-
   * assigned a due-date for each chunk and then put all the chunks on a kanban board I made on my whiteboard. 
 
   * then, each day I assigned a set block of time to work on the current chunk for the site, while tracking the time spent so I could see how long it actually took me to do each chunk
-
-
-  I found the project
 ---
