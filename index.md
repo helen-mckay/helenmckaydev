@@ -17,7 +17,7 @@ Graduating with a BS in Computer Science and a minor in Mathematics in December 
 
 <!-- list of Helen's skills -->
 
-## I've worked with
+## I know
 
 - HTML5
 - CSS3
@@ -25,7 +25,7 @@ Graduating with a BS in Computer Science and a minor in Mathematics in December 
     - SASS
     - Bootstrap
     - Tailwind
-- Vanilla JavaScript
+- Vanilla.JS
 - React.JS
 - Node.JS
 - Finite State Machines
@@ -45,6 +45,7 @@ This very site was made with 11ty and Netlify CMS and hosted with Netlify.
 
 - Java
 - C/C++
+- Python
 
 <!-- list of Helen's interests -->
 
