@@ -17,7 +17,7 @@ Graduating December 2023 with a Bachelor's in Computer Science and a minor in Ma
 
 <!-- list of Helen's skills -->
 
-## I have worked with
+## I've worked with
 
 - HTML5
 - CSS3
