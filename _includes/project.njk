@@ -35,6 +35,17 @@
         {%- endfor -%}
     </ul>
 </nav>
-    {{ content | safe }}  
+    <h1>{{ title }}</h1>
+    <img src="{{ cover | url }}" />
+    <h2>{{ date }}</h2>
+    <h3>{{ blurb }}</h3>
+    <ul>
+        {% for tech in techlist %}
+            <li>{{tech}}</li>
+        {% endfor %}
+    </ul>
+    <p>
+        {{ description }}
+    </p>
   </body>
 </html>
