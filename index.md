@@ -13,6 +13,8 @@ eleventyNavigation:
 
 I've been making websites for over 5 years, from small sites in pure HTML and CSS to React applications to the JAMstack (my current interest).
 
+Graduating with a BS in Computer Science and a minor in Mathematics in December 2023.
+
 <!-- list of Helen's skills -->
 
 ## I've worked with
@@ -39,6 +41,11 @@ I've been making websites for over 5 years, from small sites in pure HTML and CS
 
 This very site was made with 11ty and Netlify CMS and hosted with Netlify.
 
+## I also know
+
+- Java
+- C/C++
+
 <!-- list of Helen's interests -->
 
 ## I'm interested in
@@ -46,6 +53,7 @@ This very site was made with 11ty and Netlify CMS and hosted with Netlify.
 - Using fintie state machines to manage UX state
 - Designing clean accessible experiences for mobile views
 - Exploring the potential of finite state machines in the JAMstack
+- Reimagining modern web development through functional programming in JavaScript
 
 <!-- links to other pages on this site -->
 

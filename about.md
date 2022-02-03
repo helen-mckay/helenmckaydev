@@ -24,7 +24,7 @@ Currently reading:
 
 <!-- What Helen is interested in working in -->
 
-I would like to make web applications that improve the lives of fellow Houstonians.
+After graduation, I would like to work as a front-developer or software engineer, working on large applications that deliver clean, intuitive, and accessible experiences to their users.
 
 <!-- Links to other pages on this site -->
 
