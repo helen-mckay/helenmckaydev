@@ -7,6 +7,9 @@ blurb: i want to go to there
 tectlist:
   - netlify cms
   - 11ty
+techlist:
+  - netlify cms
+  - 11ty
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed
   turpis dolor. Sed viverra sem erat, id malesuada diam congue in. Sed turpis
   enim, feugiat sit amet quam tempus, consequat tincidunt felis. Maecenas
