@@ -7,8 +7,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addPlugin(pluginDate, {
         formats: {
-            readableMonth: {year: "numeric", month: "short"}
+            readableDate: { year: "numeric", month: "long"}
         }
     });
-    
 };

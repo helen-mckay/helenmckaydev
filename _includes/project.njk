@@ -10,7 +10,7 @@ layout: layout.njk
   <a href="/projects">Projects</a> / {{ title }}
   <h1>{{ title }}</h1>
   <img src="{{ cover }}" alt"" />
-  <h2>{{ date }}</h2>
+  <h2>{{ date | readableDate }}</h2>
   <h3>{{ blurb }}</h3>
   <ul>
       {% for tech in techlist %}
