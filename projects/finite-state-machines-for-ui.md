@@ -6,5 +6,5 @@ date: 2022-02-03T22:55:58.081Z
 blurb: afafa
 techlist:
   - 11ty
-description: fasfsadfafsadfsad
 ---
+In this project, I make finite state machines for use in user interfaces

@@ -6,8 +6,9 @@ date: 2022-02-03T23:55:13.138Z
 blurb: a toy that lets you guide your life with a deck of cards
 techlist:
   - react
-description: >-
-  I have a fascination with playing cards and all the math involved with them.
+---
+
+ I have a fascination with playing cards and all the math involved with them.
   It fits in the palm of your hand and yet with shuffling just a few times you
   get an order of the deck you have (more likely than not) never seen before in
   your life.
@@ -20,4 +21,3 @@ description: >-
 
 
   Mostly just for "what's for dinner?"
----

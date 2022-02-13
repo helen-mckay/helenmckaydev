@@ -8,5 +8,5 @@ techlist:
   - netlify cms
   - netlify
   - 11ty
-description: asfasfsadfsda
 ---
+My art portfolio site

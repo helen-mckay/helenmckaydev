@@ -45,8 +45,6 @@
             <li>{{tech}}</li>
         {% endfor %}
     </ul>
-    <p>
-        {{ description }}
-    </p>
+    {{ content | safe }}
   </body>
 </html>
