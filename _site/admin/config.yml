@@ -11,7 +11,6 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: hidden, default: "project.njk"}
-      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Cover", name: "cover", widget: "image", choose_url: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}

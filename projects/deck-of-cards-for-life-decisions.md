@@ -1,6 +1,5 @@
 ---
 layout: project.njk
-slug: cartology
 cover: /images/uploads/all-pics-020.jpg
 title: deck of cards for life decisions
 date: 2022-02-03T23:55:13.138Z
