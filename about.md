@@ -20,8 +20,4 @@ I would like to work on sites and applications that could transform the lives of
 
 I'm currently studying Computer Science at the University of Houston, and minoring in Mathematics. When not studying or making websites, I can be found bicycling, exploring Houston on the METRO, or reading.
 
-Currently reading:
-- "How to Listen to Jazz" by Ted Gioia
-- "The Long Dark Tea-Time of the Soul" by Douglas Adams
-
 The next version of this site will include a blog where I will share more of my thoughts, philosophy, and lessons learned.

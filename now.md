@@ -17,6 +17,7 @@ eleventyNavigation:
 - Incorporating kanban boards and Cal Newport-style time blocking for time management
 - Making more examples of finite state machines implementations on CodePen
 - Testing if my hypotheses of using finite state machines in the Jamstack hold any water
+- Reading "How to Listen to Jazz" by Ted Gioia
 - Watching all of <em>House, M.D.</em>
 
 #### *inspired by the [/now page movement](https://nownownow.com) (will be submitting this page there shortly)
