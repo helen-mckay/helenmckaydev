@@ -1,22 +1,57 @@
-/* DON'T BE STYLING THINGS UNTIL AFTER ALL THE PAGES ARE BUILT OKAY!! */
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fredoka One', Arial, sans-serif;
-    font-weight: normal;
-    color: var(--magenta);
+body {
+    margin: var(--sp1);
+    background-color: #eeeeee;
 }
 
-/* TO-DO: figure out active nav styling -> FIXED IT!! */
+nav {
+    padding: var(--sp3) 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
 
-a {
+nav ul {
+    display: flex;
+    list-style: none;
+    align-content: center;
+    align-self: stretch;
+}
+
+nav li {
+    flex: 1;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: var(--fs2);
     color: var(--blue);
+    font-weight: bold;
 }
 
-/* TO-DO figure out targeting nav links for styling */
-.nav a {
+nav ul li a:hover {
+    filter: none;
     color: var(--orange);
 }
 
 .activenav a {
-    color: pink;
+    color: var(--orange);
+    border-bottom: 2px solid var(--orange);
+}
+
+ul li {
+    margin: 0 var(--sp1);
+}
+
+a:hover {
+    filter: brightness(110%);
+}
+
+@media screen and (min-width: 660px)
+{
+    body {
+        margin: var(--sp1) var(--sp2);
+    }    
 }

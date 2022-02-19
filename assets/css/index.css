@@ -1,13 +1,89 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-width: 300px;
+}
+
 :root {
-    font-family: 'Asap', Arial, sans-serif;
-    --magenta: magenta;
-    --orange: orange;
-    --blue: skyblue;
-    font-size: 12px;
+    --heading-font: 'Fredoka One', Arial, sans-serif;
+    --body-font: 'Asap', Arial, sans-serif;
+    --magenta: #E52168;
+    --orange: #f29a0f;
+    --blue: #00a8ad;
+    --lightgray: #eeeeee;
+    --sp1: 24px;
+    --sp2: 52px;
+    --sp3: 12px;
+    --fs1: 18px;
+    --fs2: 14px;
+    --fs3: 12px;
+    --fs4: 10px;
+
+    font-size: var(--fs3);
+    font-family: var(--body-font);
+}
+
+h1 {
+    font-size: var(--fs1);
+    margin: var(--sp3) 0;
+    color: var(--magenta);
+    font-family: var(--heading-font);
+    font-weight: normal;
+}
+
+h2 {
+    font-size: var(--fs2);
+    margin: var(--sp3) 0;
+    color: var(--orange);
+    font-family: var(--heading-font);
+    font-weight: normal;
+}
+
+h3 {
+    font-size: var(--fs3);
+    margin: var(--sp3) 0;
+    color: var(--magenta);
+    font-family: var(--heading-font);
+    font-weight: normal;
+}
+
+h4 {
+    font-size: var(--fs4);
+    margin: var(--sp3) 0;
+    color: var(--magenta);
+}
+
+p {
+    font-size: var(--fs3);
+    font-family: var(--body-font);
+}
+
+li {
+    font-size: var(--fs3);
+    font-family: var(--body-font);
+}
+
+a {
+    font-size: inherit;
+    font-family: var(--body-font);
+    color: var(--blue);
+}
+
+p {
+    margin: var(--sp3) 0;
 }
 
 @media screen and (min-width: 600px) {
     :root {
-        font-size: 15px;
+        --fs1: 20px;
+        --fs2: 16px;
+        --fs3: 14px;
+        --fs4: 12px;
     }
 }
+
+/* TO-DO if looks better with bigger headings on larger screens, can add breakpoints later with larger fonts */
