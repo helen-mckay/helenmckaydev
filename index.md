@@ -43,7 +43,10 @@ Graduating December 2023 with a Bachelor's in Computer Science and a minor in Ma
 
 <!-- blurb on how this site was made -->
 ## This very site...
-...was made with 11ty and Netlify CMS, and hosted with Netlify. This site isn't flashy, but it is fully CRUD (thanks to its Netlify CMS back-end), it is lightweight (under 5kB), it is accessible, and it is <em>fast</em> (perfect scores on Lighthouse!).
+
+...was made with 11ty and Netlify CMS, and hosted with Netlify. 
+
+This site isn't flashy, but it is fully CRUD (thanks to its Netlify CMS back-end), it is lightweight (under 5kB), it is accessible, and it is <em>fast</em> (perfect scores on Lighthouse!).
 
 ## I also know
 
@@ -54,6 +57,7 @@ Graduating December 2023 with a Bachelor's in Computer Science and a minor in Ma
 <!-- list of Helen's interests -->
 
 ## I'm interested in
+
 - Building fast lightweight websites and web applications
 - Using finite state machines to manage UX state
 - Designing clean, intuitive, and accessible experiences for mobile views
