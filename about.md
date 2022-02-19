@@ -14,23 +14,7 @@ I've been making websites for over 5 years. When I was 13 years old, I taught my
 
 I started making simple sites with pure HTML and CSS, then moved to larger applications in React. Most recently, I've been learning the Jamstack and exploring how to use finite state machines for UX state management. I am currently using 11ty, Netlify, Netlify CMS, and Robot.
 
-Over time, web development philosophy has evolved into:
-- Make it small
-    * Less dependencies
-    * Less bloat
-    * Smaller bundle size
-    * Smarter use of assets like like large images
-- Make it fast
-    * Faster fetching
-    * Faster loading
-    * Faster rendering
-    * Faster initial paint
-- Make it accessible
-    * Readable color contrasts
-    * Keyboard navigation friendly
-- Make the states as explicit as possible
-    * Finite state machines
-    * Enumerate all valid and invalid states
+I would like to work on sites and applications that could transform the lives of my fellow Houstonians.
 
 <!-- Helen's non-web-dev interets -->
 

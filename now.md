@@ -11,7 +11,7 @@ eleventyNavigation:
 <!-- web dev, life, school, employment -->
 
 - Designing, building, testing, and launching the new version of this site (11ty and Netlify CMS this time)
-- Stuyding hard to do as well as possible in my Computer Science classes
+- Studying hard to do as well as possible in my Computer Science classes
 - Preparing for applying for summer 2022 internship
 - Trying to get back in the habit of bike riding regularly
 - Incorporating kanban boards and Cal Newport-style time blocking for time management

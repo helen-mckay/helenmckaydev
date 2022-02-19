@@ -15,7 +15,7 @@ I'm a front-end developer studying Computer Science at the University of Houston
 
 I've been making websites for over 5 years, from small sites in pure HTML and CSS to React applications to the Jamstack (my current interest).
 
-Graduating December 2023 with a Bachelor's in Computer Science and a minor in Mathematics.
+Graduating December 2023 with a Bachelor's in Computer Science and a minor in Mathematics. After that, planning on working as a front-end developer or software engineer in the Houston area.
 
 <!-- list of Helen's skills -->
 
