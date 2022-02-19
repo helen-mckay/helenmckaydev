@@ -18,6 +18,7 @@ body {
     --sp1: 24px;
     --sp2: 52px;
     --sp3: 12px;
+    --sp4: 6px;
     --fs1: 18px;
     --fs2: 14px;
     --fs3: 12px;
@@ -25,19 +26,21 @@ body {
 
     font-size: var(--fs3);
     font-family: var(--body-font);
+    color: white;
 }
 
 h1 {
     font-size: var(--fs1);
-    margin: var(--sp3) 0;
+    margin: var(--sp4) 0;
     color: var(--magenta);
     font-family: var(--heading-font);
     font-weight: normal;
+    text-align: center;
 }
 
 h2 {
     font-size: var(--fs2);
-    margin: var(--sp3) 0;
+    margin: var(--sp4) 0;
     color: var(--orange);
     font-family: var(--heading-font);
     font-weight: normal;

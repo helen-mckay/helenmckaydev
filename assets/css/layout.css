@@ -1,6 +1,6 @@
 body {
     margin: var(--sp1);
-    background-color: #eeeeee;
+    background-color: #292929;
 }
 
 nav {
@@ -8,14 +8,16 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid white;
+    margin: var(--sp3) 0;
 }
 
 nav ul {
     display: flex;
     list-style: none;
     align-content: center;
-    align-self: stretch;
+    flex: 1;
+    margin: var(--sp4) 0;
 }
 
 nav li {
@@ -29,24 +31,28 @@ nav ul li a {
     font-size: var(--fs2);
     color: var(--blue);
     font-weight: bold;
+    border-bottom: 2px solid transparent;
+    transition: filter 0.2s ease;
 }
 
 nav ul li a:hover {
-    filter: none;
-    color: var(--orange);
+    filter: brightness(120%);
 }
 
 .activenav a {
-    color: var(--orange);
-    border-bottom: 2px solid var(--orange);
+    border-bottom: 2px solid var(--blue);
 }
 
 ul li {
     margin: 0 var(--sp1);
 }
 
-a:hover {
-    filter: brightness(110%);
+p a:hover {
+    filter: brightness(120%);
+}
+
+p a {
+    transition: filter 0.2s ease;
 }
 
 @media screen and (min-width: 660px)
@@ -54,4 +60,21 @@ a:hover {
     body {
         margin: var(--sp1) var(--sp2);
     }    
+
+    nav {
+        flex-direction: row;
+    }
+
+    nav div {
+        flex: 2;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    nav div h2 {
+        text-align: center;
+        margin: 0 var(--sp3);
+    }
 }
