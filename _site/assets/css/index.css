@@ -32,7 +32,7 @@ body {
 h1 {
     font-size: var(--fs1);
     margin: var(--sp4) 0;
-    color: var(--magenta);
+    color: var(--orange);
     font-family: var(--heading-font);
     font-weight: normal;
     text-align: center;
@@ -57,7 +57,7 @@ h3 {
 h4 {
     font-size: var(--fs4);
     margin: var(--sp3) 0;
-    color: var(--magenta);
+    color: var(--orange);
 }
 
 p {
@@ -80,12 +80,20 @@ p {
     margin: var(--sp3) 0;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 660px) {
     :root {
-        --fs1: 20px;
-        --fs2: 16px;
-        --fs3: 14px;
-        --fs4: 12px;
+        --fs1: 24px;
+        --fs2: 20px;
+        --fs3: 16px;
+        --fs4: 14px;
+    }
+
+    nav h1 {
+        margin: var(--sp4) 0;
+    }
+
+    h1 {
+        margin: var(--sp2);
     }
 }
 

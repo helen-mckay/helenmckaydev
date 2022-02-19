@@ -16,7 +16,7 @@ eleventyNavigation:
 - Trying to get back in the habit of bike riding regularly
 - Incorporating kanban boards and Cal Newport-style time blocking for time management
 - Making more examples of finite state machines implementations on CodePen
-- Testing if my hypotheses of using finite state machines in the JAMstack hold any water
-- Watching all of 30 Rock
+- Testing if my hypotheses of using finite state machines in the Jamstack hold any water
+- Watching all of <em>House, M.D.</em>
 
 #### *inspired by the [/now page movement](https://nownownow.com) (will be submitting this page there shortly)

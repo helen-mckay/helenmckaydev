@@ -9,7 +9,9 @@ eleventyNavigation:
 
 <!-- blurb of who Helen is -->
 
-# I'm Helen McKay, a front-end developer studying Computer Science at the University of Houston
+# I'm Helen McKay.
+
+I'm a front-end developer studying Computer Science at the University of Houston.
 
 I've been making websites for over 5 years, from small sites in pure HTML and CSS to React applications to the Jamstack (my current interest).
 
@@ -40,8 +42,8 @@ Graduating December 2023 with a Bachelor's in Computer Science and a minor in Ma
 - Netlify CMS
 
 <!-- blurb on how this site was made -->
-
-This very site was made with 11ty and Netlify CMS, and hosted with Netlify. Future plans for this site include a blog where I will discuss what I'm learning.
+## This very site...
+...was made with 11ty and Netlify CMS, and hosted with Netlify. This site isn't flashy, but it is fully CRUD (thanks to its Netlify CMS back-end), it is lightweight (under 5kB), it is accessible, and it is <em>fast</em> (perfect scores on Lighthouse!).
 
 ## I also know
 
@@ -52,19 +54,9 @@ This very site was made with 11ty and Netlify CMS, and hosted with Netlify. Futu
 <!-- list of Helen's interests -->
 
 ## I'm interested in
-- Building fast, lightweight web applications
-- Using fintie state machines to manage UX state
-- Designing clean accessible experiences for mobile views
-- Exploring the potential of finite state machines in the JAMstack
-- Reimagining modern web development through functional programming in JavaScript
-
-<!-- links to other pages on this site -->
-
-## Learn more
-
-[View some of my projects](/projects), [learn more about me](/about), and [discover what I'm up to now](/now).
-
-<!-- links to external sites -->
-
-Or [check out my code repositories on my GitHub](https://github.com/helen-mckay), [see live small projects on my CodePen](https://codepen.io/helen-mckay), and view my profile on LinkedIn.
-
+- Building fast lightweight websites and web applications
+- Using finite state machines to manage UX state
+- Designing clean, intuitive, and accessible experiences for mobile views
+- Exploring the potential of finite state machines in the Jamstack
+- Exploring functional JavaScript programming and its applications
+- Minimizing bloat and dependencies whenever possible

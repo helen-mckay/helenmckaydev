@@ -14,22 +14,30 @@ I've been making websites for over 5 years. When I was 13 years old, I taught my
 
 I started making simple sites with pure HTML and CSS, then moved to larger applications in React. Most recently, I've been learning the Jamstack and exploring how to use finite state machines for UX state management. I am currently using 11ty, Netlify, Netlify CMS, and Robot.
 
+Over time, web development philosophy has evolved into:
+- Make it small
+    * Less dependencies
+    * Less bloat
+    * Smaller bundle size
+    * Smarter use of assets like like large images
+- Make it fast
+    * Faster fetching
+    * Faster loading
+    * Faster rendering
+    * Faster initial paint
+- Make it accessible
+    * Readable color contrasts
+    * Keyboard navigation friendly
+- Make the states as explicit as possible
+    * Finite state machines
+    * Enumerate all valid and invalid states
+
 <!-- Helen's non-web-dev interets -->
 
-When not studying for my CS classes or making websites, I can be found bicycling or reading.
+I'm currently studying Computer Science at the University of Houston, and minoring in Mathematics. When not studying or making websites, I can be found bicycling, exploring Houston on the METRO, or reading.
 
 Currently reading:
 - "How to Listen to Jazz" by Ted Gioia
 - "The Long Dark Tea-Time of the Soul" by Douglas Adams
 
-<!-- What Helen is interested in working in -->
-
-After graduation, I would like to work as a front-developer or software engineer, working on large applications that deliver fast, clean, intuitive, and accessible experiences to their users.
-
-<!-- Links to other pages on this site -->
-
-[View some of my projects](/projects) and [discover what I'm up to now](/now).
-
-<!-- Links to external sites -->
-
-Or [check out my code repositories on my GitHub](https://github.com/helen-mckay), [see live small projects on my CodePen](https://codepen.io/helen-mckay), and view my profile on LinkedIn.
+The next version of this site will include a blog where I will share more of my thoughts, philosophy, and lessons learned.

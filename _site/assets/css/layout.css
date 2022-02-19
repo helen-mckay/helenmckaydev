@@ -47,13 +47,14 @@ ul li {
     margin: 0 var(--sp1);
 }
 
-p a:hover {
+a {
+    transition: filter 0.3s ease;
+}
+
+a:hover {
     filter: brightness(120%);
 }
 
-p a {
-    transition: filter 0.2s ease;
-}
 
 @media screen and (min-width: 660px)
 {
@@ -63,18 +64,11 @@ p a {
 
     nav {
         flex-direction: row;
+        justify-content: space-around;
     }
 
-    nav div {
+    nav h1 {
         flex: 2;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: flex-start;
-    }
-
-    nav div h2 {
-        text-align: center;
-        margin: 0 var(--sp3);
+        text-align: left;
     }
 }
