@@ -81,6 +81,14 @@ p {
     margin: var(--sp3) 0;
 }
 
+footer {
+    margin-top: 10%;
+}
+
+footer h3 {
+    text-align: center;
+}
+
 @media screen and (min-width: 660px) {
     :root {
         --fs1: 24px;
