@@ -13,7 +13,6 @@ collections:
       - {label: "Layout", name: "layout", widget: hidden, default: "project.njk"}
       - {label: "Cover", name: "cover", widget: "image", choose_url: true}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Pretty Title", name: "prettyTitle", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Blurb", name: "blurb", widget: "string"}
       - {label: "Tech List", name: "techlist", widget: "select", multiple: true, options: ["netlify", "netlify cms", "react", "11ty"]}

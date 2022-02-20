@@ -8,3 +8,13 @@ blurb: I LOVE YOU
 techlist:
   - react
 ---
+
+Hello beautiful creatures!
+
+This is my first project post!
+
+I made this imaginary project with imaginary React.JS and imaginary Netlify CMS and it turned out BEAUTIFULLY if I must say so myself!
+
+TO-DO 
+- change titles to work like this:
+  * just use one title and make them SIMPLE
