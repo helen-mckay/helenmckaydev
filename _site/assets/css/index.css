@@ -50,7 +50,7 @@ h2 {
 h3 {
     font-size: var(--fs3);
     margin: var(--sp3) 0;
-    color: var(--orange);
+    color: var(--magenta);
     font-family: var(--heading-font);
     font-weight: normal;
 }

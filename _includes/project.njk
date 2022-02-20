@@ -6,14 +6,14 @@ layout: layout.njk
   <link rel="stylesheet" type="text/css" href="../../assets/css/index.css" />
   <link rel="stylesheet" type="text/css" href="../../assets/css/layout.css" />
   <link rel="stylesheet" type="text/css" href="../../assets/css/project.css" />
-  <title>Projects | {{ prettyTitle }}</title>
+  <title>{{ titleLong }}</title>
 </head>
 <body>
-  <a href="/projects">Projects</a> / {{ prettyTitle }}
+  <a href="/projects">Projects</a> / {{ titleLong }}
   <div class="coverContainer">
     <img class="cover" src="{{ cover }}" alt="" />
   </div>
-  <h1>{{ prettyTitle }}</h1>
+  <h1>{{ titleLong }}</h1>
   <h2>{{ date | readableDate }}</h2>
   <h3>{{ blurb }}</h3>
   <ul>
