@@ -1,0 +1,16 @@
+.coverContainer {
+    display: flex;
+    margin: var(--sp1) 0;
+}
+
+.cover {
+    width: 90%;
+    height: auto;
+    margin: auto;
+}
+
+@media screen and (min-width: 660px) {
+    .cover {
+        width: 70%;
+    }
+}

@@ -5,11 +5,15 @@ layout: layout.njk
 <head>
   <link rel="stylesheet" type="text/css" href="../../assets/css/index.css" />
   <link rel="stylesheet" type="text/css" href="../../assets/css/layout.css" />
+  <link rel="stylesheet" type="text/css" href="../../assets/css/project.css" />
+  <title>Projects | {{ prettyTitle }}</title>
 </head>
 <body>
-  <a href="/projects">Projects</a> / {{ title }}
+  <a href="/projects">Projects</a> / {{ prettyTitle }}
+  <div class="coverContainer">
+    <img class="cover" src="{{ cover }}" alt="" />
+  </div>
   <h1>{{ prettyTitle }}</h1>
-  <img src="{{ cover }}" alt"" />
   <h2>{{ date | readableDate }}</h2>
   <h3>{{ blurb }}</h3>
   <ul>
