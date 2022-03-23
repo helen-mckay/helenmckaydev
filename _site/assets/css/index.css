@@ -1,4 +1,4 @@
-*, *::before, *::after {
+/**, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -104,6 +104,6 @@ footer h3 {
     h1 {
         margin: var(--sp2);
     }
-}
+}*/
 
 /* TO-DO if looks better with bigger headings on larger screens, can add breakpoints later with larger fonts */

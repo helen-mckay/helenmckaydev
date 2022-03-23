@@ -8,16 +8,14 @@ eleventyNavigation:
 
 # About Me
 
-<!-- Helen's history with web develpment -->
+When I was 13 years old, I taught myself HTML and CSS so I could tweak Tumblr themes—and I've been hooked on web development ever since. It's been almost 10 years, now, and I've never lost that sense of child-like wonder I felt the very first time I changed a .css file.
 
-I've been making websites for over 5 years. When I was 13 years old, I taught myself HTML and CSS so I could tweak Tumblr themes, and I have been hooked on web development ever since. 
+Over time my interests shifted from first pure HTML and CSS, to JavaScript and jQuery, to React, to now finite state machines and the Jamstack.
 
-I started making simple sites with pure HTML and CSS, then moved to larger applications in React. Most recently, I've been learning the Jamstack and exploring how to use finite state machines for UX state management. I am currently using 11ty, Netlify, Netlify CMS, and Robot.
+I've built all kinds of projects with all kinds of tools. [You can view them all here](../projects).
 
-Born-and-raised in the Houston area. I'm passionate about my hometown and I want to give back. I would like to work on sites and applications that could transform the lives of my fellow Houstonians.
+I was born-and-raised in the Houston area. I love my city deeply and am eager to use my abilities in web development to give back however I can.
 
-<!-- Helen's non-web-dev interets -->
+When not making websites, I can be found cooking, reading, trampolining, bicycling, or exploring Houston on the METRO. I'm also always seeking ways to optimize my time management systems, which I will blog about here occasionally.
 
-I'm currently studying Computer Science at the University of Houston, and minoring in Mathematics. When not studying or making websites, I can be found bicycling, exploring Houston on the METRO, or reading.
-
-The next version of this site will include a blog where I will share more of my thoughts, philosophy, and lessons learned.
+[You can see what I'm currently up to here](../now).

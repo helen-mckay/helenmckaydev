@@ -4,69 +4,49 @@ title: Home
 eleventyNavigation:
     key: Home
     order: 1
-# might change this one to either njk or html page for more control over the formatting
 ---
 
-<!-- blurb of who Helen is -->
+# I'm Helen McKay.
 
-# I'm Helen McKay
+I'm a web developer with a deep love of JavaScript, the Jamstack, and finite state machines. Graduating from the University of Houston in December 2023 with a Bachelor's in Computer Science and minor in Mathematics.
 
-I'm a front-end developer studying at the University of Houston.
+I've been making websites for almost 10 years, now. Nowadays, I make a lot of web apps, mostly about my home city of Houston, Texas. 
 
-I've been making websites for over 5 years, from small sites in pure HTML and CSS to React applications to the Jamstack (my current interest).
-
-Graduating December 2023 with a Bachelor's in Computer Science and a minor in Mathematics. 
-
-After that, I'm planning on working as a front-end developer or software engineer in the Houston area.
-
-<!-- list of Helen's skills -->
-
-## I've worked with
-
+## I've worked with...
 - HTML5
 - CSS3
-    - Grid
     - Flexbox
-- SASS
-- Tailwind
-- Bootstrap
-- Vanilla.JS
-- React.JS
-- Node.JS
-- Finite State Machines
-    - XState
+    - Grid
+- CSS frameworks and libraries
+    - Tailwind
+    - SASS
+    - Bootstrap
+- JavaScript
+    - Vanilla
+    - jQuery
+    - React
+    - Node
+- Finite state machines
     - Robot
+    - XState
 - 11ty
-- Firebase
-- Heroku
-- Amazon Web Services
 - Netlify
 - Netlify CMS
+- Firebase
+- Heroku
+- Amazon Web Services (AWS)
 
-<!-- blurb on how this site was made -->
-## This very site...
+## I'm interested in...
+- Using finite state machines for explicit state management
+- Reducing bloat and dependencies wherever possible
+- Building fast, lightweight sites and apps
+- Designing intuitive, accessible, and mobile-friendly experiences
+- Creating tools that can help fellow Houstonians
 
-...was made with 11ty and Netlify CMS, and hosted with Netlify. 
+## Learn more...
 
-This site isn't flashy, but it is:
-- fully CRUD (thanks to its Netlify CMS back-end) 
-- ultra-lightweight
-- highly accessible
-- responsive and mobile friendly
+[You can check out my projects here](./projects).
 
-## I also know
+[You learn more about me here](./about).
 
-- Java
-- C/C++
-- Python
-
-<!-- list of Helen's interests -->
-
-## I'm interested in
-
-- Building fast lightweight websites and web applications
-- Using finite state machines to manage UX state
-- Designing clean, intuitive, and accessible experiences for mobile views
-- Exploring the potential of finite state machines in the Jamstack
-- Exploring functional JavaScript programming and its applications
-- Minimizing bloat and dependencies whenever possible
+[You can see what I'm currently up to here](./now).

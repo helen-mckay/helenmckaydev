@@ -1,0 +1,17 @@
+---
+layout: layout.njk
+title: Blog
+eleventyNavigation:
+    key: Blog
+    order: 5
+---
+
+<h1>My Blog</h1>
+
+<ul>
+{%- for blog in collections.blog -%}
+    <li>
+        <a href="{{blog.url | url}}">{{blog.data.title}}</a>
+    </li>
+{%- endfor -%}
+</u>
