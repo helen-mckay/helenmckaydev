@@ -9,7 +9,7 @@ layout: layout.njk
 <body>
   <h1>{{ title }}
   <h2>{{ date | readableDate }}</h2>
-  <p>{{ body }}
+  <p>{{ body | safe }}</p>
   {{ content | safe }}
 </body>
 
