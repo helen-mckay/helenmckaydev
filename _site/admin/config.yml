@@ -13,7 +13,7 @@ collections:
       - {label: "Layout", name: "layout", widget: hidden, default: "blog.njk"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Body", name: "Body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "projects"
     label: "Project"
     folder: "/projects"
