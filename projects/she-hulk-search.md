@@ -7,3 +7,8 @@ blurb: Most Important Project
 techlist:
   - react
 ---
+This is the most important project I have ever made in my LIFE. 
+
+It tells you if a given comic contains She-Hulk or not. 
+
+There is NOTHING more important than that. NOTHING.
