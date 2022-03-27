@@ -50,3 +50,5 @@ I've been making websites for almost 10 years, now. Nowadays, I make a lot of we
 [You learn more about me here](./about).
 
 [You can see what I'm currently up to here](./now).
+
+[You can read what I'm thinking and learning about here](./blog).

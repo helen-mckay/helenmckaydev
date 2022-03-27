@@ -12,10 +12,14 @@ When I was 13 years old, I taught myself HTML and CSS so I could tweak Tumblr th
 
 Over time my interests shifted from first pure HTML and CSS, to JavaScript and jQuery, to React, to now finite state machines and the Jamstack.
 
-I've built all kinds of projects with all kinds of tools. [You can view them all here](../projects).
+I was born-and-raised in the Houston area. I love my city deeply and am eager to use my experience in web development to give back however I can.
 
-I was born-and-raised in the Houston area. I love my city deeply and am eager to use my abilities in web development to give back however I can.
+When not making websites, I can be found cooking, reading, trampolining, bicycling, or exploring Houston on the METRO. 
 
-When not making websites, I can be found cooking, reading, trampolining, bicycling, or exploring Houston on the METRO. I'm also always seeking ways to optimize my time management systems, which I will blog about here occasionally.
+I'm always seeking to learn and try new things—from time-management strategies to mindfulness practices to reimagining state-management in web development. I'll blog about it all on this site.
+
+[You can check out my projects here](../projects).
 
 [You can see what I'm currently up to here](../now).
+
+[You can read what I'm thinking and learning about here](../blog).
