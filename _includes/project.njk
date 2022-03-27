@@ -12,9 +12,9 @@ layout: layout.njk
   <div class="coverContainer">
     <img class="cover" src="{{ cover }}" alt="" />
   </div>
-  <h1>{{ prettyTitle }}</h1>
-  <h2>{{ date | readableDate }}</h2>
-  <h3>{{ blurb }}</h3>
+  <h1>{{ title }}</h1>
+  <h2>{{ blurb }}</h2>
+  <h3>{{ date | readableDate }}</h3>
   <ul>
       {% for tech in techlist %}
           <li>{{tech}}</li>
