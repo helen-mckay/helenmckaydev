@@ -26,3 +26,4 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Blurb", name: "blurb", widget: "string"}
       - {label: "Tech List", name: "techlist", widget: "select", multiple: true, options: ["netlify", "netlify cms", "react", "11ty"]}
+      - {label: "Body", name: "body", widget: "markdown"}
