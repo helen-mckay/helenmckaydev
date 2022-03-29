@@ -8,9 +8,7 @@ eleventyNavigation:
 
 # I'm Helen McKay.
 
-I'm a web developer with a deep love of JavaScript, the Jamstack, and finite state machines. Graduating from the University of Houston in December 2023 with a Bachelor's in Computer Science and minor in Mathematics.
-
-I've been making websites for almost 10 years, now. Nowadays, I make a lot of web apps, mostly about my home city of Houston, Texas. 
+I'm a web developer with a deep love of JavaScript, the Jamstack, finite state machines, and Houston, TX. Graduating from the University of Houston in December 2023 with a Bachelor's in Computer Science and minor in Mathematics.
 
 ## I've worked with...
 - HTML5
@@ -41,7 +39,7 @@ I've been making websites for almost 10 years, now. Nowadays, I make a lot of we
 - Reducing bloat and dependencies wherever possible
 - Building fast, lightweight sites and apps
 - Designing intuitive, accessible, and mobile-friendly experiences
-- Creating tools that can help fellow Houstonians
+- Creating sites, apps, and tools that can help fellow Houstonians
 
 ## Learn more...
 
