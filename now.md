@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: Now
+title: Helen McKay | Now
 eleventyNavigation:
     key: Now
     order: 4

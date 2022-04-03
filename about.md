@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: About
+title: Helen McKay | About
 eleventyNavigation:
     key: About
     order: 3

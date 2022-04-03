@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: Home
+title: Helen McKay | Home
 eleventyNavigation:
     key: Home
     order: 1
@@ -8,7 +8,10 @@ eleventyNavigation:
 
 # I'm Helen McKay.
 
-I'm a web developer with a deep love of JavaScript, the Jamstack, finite state machines, and Houston, TX. Graduating from the University of Houston in December 2023 with a Bachelor's in Computer Science and minor in Mathematics.
+- Web and app developer
+- Born-and-raised-and-based in Houston, Texas
+- Lover of all things JavaScript, Jamstack, and finite state machines
+- Graduating from University of Houston in December 2023 with a Bachelor's in Computer Science and a minor in Mathematics.
 
 ## I've worked with...
 - HTML5
