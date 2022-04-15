@@ -1,7 +1,10 @@
 /* 
     using one big CSS file for entire site
+
+    //TO-DO: use bootstrap theme that i downloaded for site
 */
 
+/*
 *::before, *::after {
     margin: none;
     padding: none;
@@ -59,3 +62,7 @@
     width: auto;
     border-radius: 50%;
 }
+*/
+
+@import url('./bootstrap.css');
+
