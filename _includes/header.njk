@@ -1,7 +1,7 @@
 {% set navPages = collections.all | eleventyNavigation %}
 {% macro renderNavListItem(entry) -%}
-  <li class="nav-item" {% if entry.url == page.url %} class="nav-link active"{% endif %}>
-    <a class="nav-link" href="{{ entry.url | url }}">{{ entry.title }}</a>
+  <li class="nav-item">
+    <a class="nav-link" {% if entry.url == page.url %} class="active" {% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
       {%- if entry.children.length -%}
         <ul>
           {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
@@ -12,9 +12,24 @@
 
 <nav class="navbar navbar-dark bg-dark">
   <a class="navbar-brand" href="/">Helen McKay</a>
-    <ul class="nav nav-pills nav-fill">
-        {%- for entry in navPages %}
+  <ul class="nav nav-pills">
+   {%- for entry in navPages %}
             {{ renderNavListItem(entry) }}
         {%- endfor -%}
-    </ul>
+  </ul>
 </nav>
+
+<!--
+ <li class="nav-item">
+      <a class="nav-link active" href="/">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+    </li>
+-->
