@@ -1,7 +1,3 @@
----
-
----
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -13,12 +9,10 @@
     <link rel="stylesheet" type="text/css" href="../assets/css/main.css" />
     <title>{{ title }}</title>
   </head>
-  <body>
+<body>
     {% include 'header.njk' %}
-    <main>
-      {{ content | safe }}
-    </main>
+    {{content | safe }}
+    <script src="../js/bootstrap.min.js"></script>
     {% include 'footer.njk' %}
-    
-  </body>
+</body>
 </html>
