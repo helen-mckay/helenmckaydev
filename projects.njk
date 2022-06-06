@@ -14,10 +14,11 @@ eleventyNavigation:
 
 <h1>My Projects</h1>
 
-<ul>
-{%- for project in collections.projects -%}
-    <li>
-        <a href="{{project.url | url}}">{{project.data.title}}</a>
-    </li>
-{%- endfor -%}
-</u>
+<div id="projects-list">
+  <div class="list-group list-group-flush">
+    {%- for project in collections.projects -%}
+      <li class="list-group-item"><a href={{project.url | safe }}>{{project.data.title}}</a></li>
+    {%- endfor -%}
+  </div>
+</div>
+
