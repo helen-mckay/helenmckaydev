@@ -1,7 +1,7 @@
 {% set navPages = collections.all | eleventyNavigation %}
 {% macro renderNavListItem(entry) -%}
-  <li class="nav-item">
-    <a {% if entry.url == page.url %} class="nav-link active" {% else %} class="nav-link" {% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
+  <li>
+    <a {% if entry.url == page.url %} class="" {% else %} class="" {% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
       {%- if entry.children.length -%}
         <ul>
           {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
@@ -10,18 +10,16 @@
   </li>
 {%- endmacro %}
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="/">Helen McKay</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarColor02">
-    <ul class="navbar-nav me-auto">
-    {%- for entry in navPages %}
-      {{ renderNavListItem(entry) }}
-    {%- endfor -%}
-    </ul>
+<nav>
+  <div>
+    <h1>bluh bluh bluh i'm a header</h1>
+    <a>Helen McKay</a>
+    <div>
+      <ul class="">
+      {%- for entry in navPages %}
+        {{ renderNavListItem(entry) }}
+      {%- endfor -%}
+      </ul>
     </div>
   </div>
 </nav>

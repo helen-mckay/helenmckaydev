@@ -6,18 +6,18 @@ eleventyNavigation:
     order: 2
 ---
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item active" aria-current="page"> Projects</li>
+<nav>
+  <ol>
+    <li>Projects</li>
   </ol>
 </nav>
 
 <h1>My Projects</h1>
 
 <div id="projects-list">
-  <div class="list-group list-group-flush">
+  <div>
     {%- for project in collections.projects -%}
-      <li class="list-group-item"><a href={{project.url | safe }}>{{project.data.title}}</a></li>
+      <li><a href={{project.url | safe }}>{{project.data.title}}</a></li>
     {%- endfor -%}
   </div>
 </div>
