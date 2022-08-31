@@ -45,8 +45,18 @@ body {
     align-items: center;
 }
 
-h1, h2, a {
-    font-family: 'Bebas Neue';
+h1, h2, h3, a {
+    font-family: 'Bebas Neue';   
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #111;
 }
 
 body nav {
@@ -115,17 +125,6 @@ body nav {
     margin: 1rem 0;
 }
 
-#about-text ul {
-    margin: 1rem;
-    list-style-position: inside;
-    list-style: square;
-}
-
-img {
-    height: 100px;
-    width: 100px;
-}
-
 #about-pic {
     background-image: url('../images/me.jpg');
     height: 300px;
@@ -133,4 +132,23 @@ img {
     background-position: center center;
     background-size: cover;
     border-radius: 50%;
+}
+
+ul {
+    list-style:  square;
+    list-style-position: inside;
+}
+
+.projects-nav ol {
+    list-style: none;
+    display: flex;
+}
+
+.projects-nav ol li {
+    margin: 0 0.25rem;
+}
+
+#projects-list {
+    list-style: square;
+    list-style-position: inside;
 }

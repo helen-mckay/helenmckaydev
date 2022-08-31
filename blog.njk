@@ -5,17 +5,13 @@ eleventyNavigation:
     key: Blog
     order: 4
 ---
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item active" aria-current="page"> Blog </li>
-  </ol>
-</nav>
-<h1>My Blog</h1>
 
-<ul>
+<h1>Blog.</h1>
+
+<ul id="blog-list">
 {%- for blog in collections.blog -%}
     <li>
-        <a href="{{blog.url | url}}">{{blog.data.title}}</a>
+        <a href="{{blog.url | url}}">{{blog.data.title}}</a> | {{blog.data.date | readableDate}}
     </li>
 {%- endfor -%}
 </ul>
