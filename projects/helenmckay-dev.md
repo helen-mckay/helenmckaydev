@@ -1,6 +1,6 @@
 ---
 layout: project.njk
-cover: /images/uploads/all-pics-020.jpg
+cover: /images/uploads/website-screenshot.png
 title: helenmckay.dev
 date: 2022-08-31T21:54:33.829Z
 blurb: Web Dev Portfolio
