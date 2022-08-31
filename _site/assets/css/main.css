@@ -28,7 +28,6 @@ body {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    align-items: center;
     font-family: 'quicksandlight', Arial, sans-serif;
     font-weight: normal;
     color: #111;
@@ -51,7 +50,6 @@ h1, h2, a {
 }
 
 body nav {
-    flex: 1;
     color: #111;
     font-family: 'Bebas Neue';
 }
@@ -67,36 +65,76 @@ body nav {
 #home-bio li {
     margin: 1rem;
     font-size: 1rem;
+    text-align: center;
 }
 
-body nav ul {
+#social-links {
     list-style: none;
+    display: flex;
 }
 
-body nav ul li a {
-    font-size: 5rem;
-    color: #111;
+#social-links li {
+    margin: 0 1rem;
+}
+
+#social-links li a {
+    color: #333;
+    text-decoration: none;
     transition: color 0.3s ease;
 }
 
-body nav ul li a:hover {
+#social-links li a:hover {
     color: #111;
 }
 
-.regNav {
+.big-nav {
+    -ms-flex-order: 1;
+    order: 1;
+}
+
+.big-nav ul {
+    list-style: none;
+}
+
+.big-nav ul li a {
+    font-size: 5rem;
+    transition: color 0.3s ease;
+}
+
+.big-nav li a:hover {
+    color: #111;
+}
+
+.big-nav .regNav {
     text-decoration: none;
     color: #333;
 }
 
 .activeNav {
     text-decoration: underline;
+    color: #111;
 }
 
 #about-text p {
     margin: 1rem 0;
 }
 
+#about-text ul {
+    margin: 1rem;
+    list-style-position: inside;
+    list-style: square;
+}
+
 img {
     height: 100px;
     width: 100px;
+}
+
+#about-pic {
+    background-image: url('../images/me.jpg');
+    height: 300px;
+    width: 300px;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 50%;
 }
