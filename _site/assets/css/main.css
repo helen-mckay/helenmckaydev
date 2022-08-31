@@ -94,8 +94,7 @@ body nav {
 }
 
 .big-nav {
-    -ms-flex-order: 1;
-    order: 1;
+    flex: 1;
 }
 
 .big-nav ul {
@@ -151,4 +150,17 @@ ul {
 #projects-list {
     list-style: square;
     list-style-position: inside;
+}
+
+.blog-nav ol {
+    display: flex;
+    list-style: none;
+}
+
+.blog-nav ol li {
+    margin: 0 0.25rem;
+}
+
+.content p {
+    margin: 1rem;
 }
