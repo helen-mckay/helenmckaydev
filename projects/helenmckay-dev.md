@@ -1,6 +1,6 @@
 ---
 layout: project.njk
-cover: /images/uploads/website-screenshot.png
+cover: /images/uploads/she-hulk-on-yellow.jpg
 title: helenmckay.dev
 date: 2022-08-31T21:54:33.829Z
 blurb: Web Dev Portfolio
