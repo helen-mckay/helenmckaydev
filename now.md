@@ -7,4 +7,12 @@ eleventyNavigation:
 ---
 
 # What I'm up to right now*
-It's August 2022 babyyyyy and I'm finally getting this freaking website done! How cool!
+
+- Finishing newest version of my website (finally)
+- Starting first semester on campus at University of Houston
+- Getting ready for career fair season
+- Getting involved with computer science orgs on campus
+- Finally finishing reading *Moby-Dick*
+- Reading a lot of French Existentialist works
+
+##### * inspired by the [/now page movement](https://nownownow.com/about)
