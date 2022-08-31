@@ -11,4 +11,4 @@ techlist:
 ---
 This very site!
 
-This site was made with 11ty and Netlify CMS and hosted with Netlify. I am able to log into the Netlify CMS backend on this site and write/edit/manage blog and projects posts.
+This site was made with 11ty and Netlify CMS and hosted with Netlify. I am able to log into the Netlify CMS backend on this site and write/edit/manage blog and projects posts. I'll share a link to the repository for this project further down the road.
