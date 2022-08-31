@@ -3,7 +3,7 @@ layout: layout.njk
 title: Helen McKay | Now
 eleventyNavigation:
     key: Now
-    order: 4
+    order: 5
 ---
 
 # What I'm up to right now*

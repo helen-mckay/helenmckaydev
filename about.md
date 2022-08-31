@@ -3,7 +3,7 @@ layout: layout.njk
 title: Helen McKay | About
 eleventyNavigation:
     key: About
-    order: 3
+    order: 2
 ---
 
 # About Me

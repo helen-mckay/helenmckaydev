@@ -1,4 +1,72 @@
-#projects-list {
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../fonts/BebasNeue-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand Light';
+    src: url('./quicksand-variablefont_wght-webfont.woff2') format('woff2'),
+         url('./quicksand-variablefont_wght-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    font-family: 'Quicksand Light', Arial, sans-serif;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
     display: flex;
-    margin: 1rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row wrap;
+}
+
+.content {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, a {
+    font-family: 'Bebas Neue';
+}
+
+body nav {
+    flex: 1;
+    color: #111;
+    font-family: 'Bebas Neue';
+}
+
+body nav ul {
+    list-style: none;
+}
+
+body nav ul li a {
+    font-size: 5rem;
+    color: #111;
+    transition: color 0.3s ease;
+}
+
+body nav ul li a:hover {
+    color: #111;
+}
+
+.regNav {
+    text-decoration: none;
+    color: #333;
+}
+
+.activeNav {
+    text-decoration: underline;
 }
