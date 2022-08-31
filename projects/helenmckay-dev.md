@@ -1,16 +1,14 @@
 ---
 layout: project.njk
-cover: /images/uploads/all-pics-020.jpg
+cover: /images/uploads/website-screenshot.png
 title: helenmckay.dev
-date: 2022-03-27T20:35:09.068Z
-blurb: Web Dev Portfolio (this very site!)
+date: 2022-08-31T21:54:33.829Z
+blurb: Web Dev Portfolio
 techlist:
   - 11ty
   - netlify cms
   - netlify
 ---
-I made this site with 11ty and Netlify CMS, and am hosting it with Netlify.
+This very site!
 
-I learned an entirely new approach to making websites with this project, and I have to say, I absolutely love it. 
-
-Now I crave making a billion other sites just like this one. I want to pay my friends to let me make similar sites for them. "Are you sure you don't need a site for your hobby??" I'll ask them over and over until they finally cave.
+This site was made with 11ty and Netlify CMS and hosted with Netlify. I am able to log into the Netlify CMS backend on this site and write/edit/manage blog and projects posts. I'll share a link to the repository for this project further down the road.
