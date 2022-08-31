@@ -24,10 +24,18 @@
 }
 
 body {
+    min-width: 300px;
     display: flex;
+    flex-flow: row wrap;
     justify-content: center;
     align-items: center;
-    flex-direction: row wrap;
+    font-family: 'quicksandlight', Arial, sans-serif;
+    font-weight: normal;
+    color: #111;
+    background-image: url('../images/noise-lines.png');
+    background-repeat: repeat;
+    background-color: rgb(255, 230, 216);
+    padding: 5rem;
 }
 
 .content {
@@ -38,7 +46,7 @@ body {
     align-items: center;
 }
 
-h1, a {
+h1, h2, a {
     font-family: 'Bebas Neue';
 }
 
@@ -46,6 +54,19 @@ body nav {
     flex: 1;
     color: #111;
     font-family: 'Bebas Neue';
+}
+
+#home-heading {
+    font-size: 1.5rem;
+}
+
+#home-bio {
+    list-style: none;
+}
+
+#home-bio li {
+    margin: 1rem;
+    font-size: 1rem;
 }
 
 body nav ul {
@@ -69,4 +90,13 @@ body nav ul li a:hover {
 
 .activeNav {
     text-decoration: underline;
+}
+
+#about-text p {
+    margin: 1rem 0;
+}
+
+img {
+    height: 100px;
+    width: 100px;
 }
