@@ -164,3 +164,27 @@ ul {
 .content p {
     margin: 1rem;
 }
+
+.coverContainer {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    width: 100%;
+    padding: 0 2rem;
+}
+
+.cover {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#tech-list {
+    display: flex;
+    list-style: none;
+}
+
+#tech-list li {
+    margin: 0 0.25rem;
+    font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+}

@@ -21,7 +21,7 @@ layout: layout.njk
   <h1>{{ title }}</h1>
   <h2>{{ blurb }}</h2>
   <h3>{{ date | readableDate }}</h3>
-  <ul>
+  <ul id="tech-list">
       {% for tech in techlist %}
           <li>{{tech}}</li>
       {% endfor %}
