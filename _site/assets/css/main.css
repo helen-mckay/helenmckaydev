@@ -7,8 +7,8 @@
 
 @font-face {
     font-family: 'Quicksand Light';
-    src: url('./quicksand-variablefont_wght-webfont.woff2') format('woff2'),
-         url('./quicksand-variablefont_wght-webfont.woff') format('woff');
+    src: url('../fonts/quicksand-variablefont_wght-webfont.woff2') format('woff2'),
+         url('../fonts/quicksand-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -130,8 +130,8 @@ body nav {
 
 #about-pic {
     background-image: url('../images/me.jpg');
-    height: 300px;
-    width: 300px;
+    width: 200px;
+    height: 200px;
     background-position: center center;
     background-size: cover;
     border-radius: 50%;
