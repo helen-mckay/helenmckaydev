@@ -26,7 +26,7 @@
 body {
     min-width: 300px;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column;
     justify-content: center;
     font-family: 'quicksandlight', Arial, sans-serif;
     font-weight: normal;
@@ -43,6 +43,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: 2px solid #111;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 1rem;
 }
 
 h1, h2, h3, a {
@@ -162,7 +166,7 @@ ul {
 }
 
 .content p {
-    margin: 1rem;
+    margin: 0.25rem;
 }
 
 .coverContainer {
@@ -177,6 +181,7 @@ ul {
     width: 100%;
     height: auto;
     margin: auto;
+    border: 2px solid #111;
 }
 
 #tech-list {
@@ -187,4 +192,12 @@ ul {
 #tech-list li {
     margin: 0 0.25rem;
     font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 600px)
+{
+
+    body {
+        flex-flow: row nowrap;
+    }
 }
