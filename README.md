@@ -7,6 +7,5 @@
 
 ## To run this project locally:
 ```
-npm init
 npx @11ty/eleventy --serve
 ```
