@@ -103,6 +103,8 @@ body nav {
     color: #333;
     text-decoration: none;
     transition: color 0.3s ease;
+    font-size: 1.5rem;
+    padding: 0.5rem;
 }
 
 #social-links li a:hover {
